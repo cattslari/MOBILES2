@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "149115548624",
+    "firebase_url": "https://nsacamargo-8921c-default-rtdb.firebaseio.com",
+    "project_id": "nsacamargo-8921c",
+    "storage_bucket": "nsacamargo-8921c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149115548624:android:226fed04f21b9896a0ffd5",
+        "android_client_info": {
+          "package_name": "com.example.nsacamargo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG4s7R4nMG15-TDc9tOVxrm2DCIcsFXv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

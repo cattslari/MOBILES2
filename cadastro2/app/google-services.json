@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896569724630",
+    "project_id": "produtos-be94c",
+    "storage_bucket": "produtos-be94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896569724630:android:5f3fc54e815adf3fe94377",
+        "android_client_info": {
+          "package_name": "com.example.cadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBumyDa1cJIyl5OUitYd6qGmRIC2FEF6ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
